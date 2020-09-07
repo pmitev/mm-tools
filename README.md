@@ -2,7 +2,8 @@
 Variety of tools for molecular mechanics computer simulations
 
 * The programs and scripts are separated in categories related to the computational code or subject.
-* The solutions here aim to work for the general cases but they are not extensively tested. 
+* The solutions here aim to work for the general cases but they are not extensively tested.
+* Some codes are extremely simple and are meant for use as handy command line tools.
 
 
 ## Examples
